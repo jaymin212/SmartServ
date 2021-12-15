@@ -46,7 +46,7 @@ networkx==2.6.3
 nibabel==3.2.1
 nipype==1.7.0
 numba
-numpy==1.20.3
+numpy
 opencv-contrib-python==4.5.4.60
 opencv-python==4.5.4.60
 openpyxl==3.0.9
