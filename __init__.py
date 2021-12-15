@@ -1,8 +1,5 @@
 from flask import Flask, request, render_template, jsonify,url_for,redirect, session, Markup
 import os
-import pandas as pd
-import json
-
 from itsdangerous import TimedJSONWebSignatureSerializer as Serializer
 from itsdangerous import URLSafeTimedSerializer, SignatureExpired
 
